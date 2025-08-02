@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marmarinos. Im taking my first steps in the field of software development . I can be quite thirsty with knowledge!
-- 👀 I’m interested in pretty much everything! Especially business and anything tech related!
+- 👀 I’m interested in pretty much everything! Especially business, machinery and anything tech related!
 - 🌱 I’m currently learning life! Every single day. Also some frontend and some java.
 - 💞️ I’m looking to collaborate on anything that will make me  better!
 
